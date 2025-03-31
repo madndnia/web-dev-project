@@ -1,5 +1,5 @@
 # Cake Shop Web  
-**GitHub:**
+**GitHub:** (https://github.com/madndnia/web-dev-project)
 
 Website for a pastry shop with online ordering.  
 
