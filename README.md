@@ -1,17 +1,18 @@
-# Cake Shop Web
-Website for a pastry shop with online ordering.
+# Cake Shop Web  
 
-## Description of the project:
-- Browse the range of the patisserie (cakes, pastries and other desserts).
-- Authorise via JWT tokens.
-- Add items to the basket and place orders.
-- View your orders in your personal cabinet.
+Website for a pastry shop with online ordering.  
 
-## Team members:
-1. Nurmagambetova Madina
-2. Manarbekov Kuanish
-3. Tamerlan Issakhanov
+## 🍰 **Description**  
+- Browse the range of the patisserie (cakes, pastries, and other desserts).  
+- Authorize via JWT tokens.  
+- Add items to the basket and place orders.  
+- View your orders in your personal cabinet.  
 
-## Technologies:  
-- Frontend: Angular  
-- Backend: Django REST Framework 
+## 👥 **Team Members**  
+- Nurmagambetova Madina  
+- Manarbekov Kuanish  
+- Tamerlan Issakhanov  
+
+## 🛠 **Technologies**  
+- **Frontend**: Angular  
+- **Backend**: Django REST Framework  
