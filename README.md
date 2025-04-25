@@ -1,8 +1,7 @@
-# Cake Shop Web  
+# I LOVE EAT SHOP
 
 **GitHub:** [https://github.com/madndnia/web-dev-project](https://github.com/madndnia/web-dev-project)
-
-Website for a pastry shop with online ordering.  
+Website for search and guide restaurants
 
  Authentication and security
 JWT authentication
