@@ -13,12 +13,15 @@ An interceptor for tokens
 Search by name, city, category
 Filtering by status 
 Sort by date, popularity, rating
+
 🔄 Full-fledged API
 Full CRUD 
 Authorization via tokens
+
 📑 API documentation and testing
 Support via Postman
 All methods: GET, POST, PUT, DELETE
+
 💬 Promote and inspire
 Share your path with others
 Recommend places that have impressed you.
