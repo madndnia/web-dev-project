@@ -1,0 +1,47 @@
+
+.header {
+    display: flex;
+    align-items: center;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/405/949/202/apples-fruit-black-background-minimalism-wallpaper-preview.jpg'); /* Устанавливаем картинку как фон */
+    background-size: cover;  
+    background-position: 50%;
+    height: 80px; 
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo-container {
+    margin-left: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .logo-text {
+    font-size: 2rem;  
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 2px; 
+  }
+  
+ nav {
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 1;
+  }
+  
+  nav a, nav button {
+    margin-left: 2rem;
+    text-decoration: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  nav a:hover, nav button:hover {
+    color:  #0b4121;
+  }
+  
+  
