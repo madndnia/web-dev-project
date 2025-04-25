@@ -7,8 +7,10 @@ import django.utils.timezone
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('wanderlist_app', '0001_initial'),
-    ]
+    # Заменить или удалить ссылку на wanderlist_app
+    ('restaurant_app', '0001_initial'),  # исправленная зависимость
+]
+
 
     operations = [
         migrations.AddField(

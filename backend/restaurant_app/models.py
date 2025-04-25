@@ -26,7 +26,7 @@ class Place(models.Model):
     city = models.CharField(max_length=100)
     image = models.ImageField(upload_to='places/', null=True, blank=True)
     is_visited = models.BooleanField(default=False)
-    category = models.ForeignKey(Category, on_delete=models.SET_NULL, null=True, blank=True)
+    category = models.ForeignKey('restaurant_app.Category', on_delete=models.SET_NULL, null=True, blank=True)
     created_at = models.DateTimeField(default=timezone.now)
 
     objects = PlaceManager()

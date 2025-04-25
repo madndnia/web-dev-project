@@ -40,11 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'backend.wanderlist_app',
     'corsheaders',
     'rest_framework',
     'users',
     'rest_framework_simplejwt',
+    'backend.restaurant_app'
 ]
 
 MIDDLEWARE = [
