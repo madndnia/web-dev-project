@@ -1,7 +1,7 @@
 # I LOVE EAT SHOP
 
 **GitHub:** [https://github.com/madndnia/web-dev-project](https://github.com/madndnia/web-dev-project)
-Website for search and guide restaurants
+Website for search and guide restaurants in city
 
  Authentication and security
 JWT authentication
