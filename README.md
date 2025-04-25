@@ -4,11 +4,25 @@
 
 Website for a pastry shop with online ordering.  
 
-## 🍰 **Description**  
-- Browse the range of the patisserie (cakes, pastries, and other desserts).  
-- Authorize via JWT tokens.  
-- Add items to the basket and place orders.  
-- View your orders in your personal cabinet.  
+ Authentication and security
+JWT authentication
+Registration, entry/exit
+An interceptor for tokens
+
+🔍 Smart search and filters
+Search by name, city, category
+Filtering by status 
+Sort by date, popularity, rating
+🔄 Full-fledged API
+Full CRUD 
+Authorization via tokens
+📑 API documentation and testing
+Support via Postman
+All methods: GET, POST, PUT, DELETE
+💬 Promote and inspire
+Share your path with others
+Recommend places that have impressed you.
+Help the community discover new directions
 
 ## 👥 **Team Members**  
 - Nurmagambetova Madina  
